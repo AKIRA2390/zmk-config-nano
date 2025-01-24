@@ -12,9 +12,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="0 degrees">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="90 degrees">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,15 +143,10 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-      <workItem from="1736456530260" duration="647000" />
-    </task>
-    <task id="LOCAL-00195" summary="Trying different motion pin">
-      <option name="closed" value="true" />
-      <created>1728324702453</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1728324702453</updated>
+      <workItem from="1736456530260" duration="1850000" />
+      <workItem from="1736625119185" duration="611000" />
+      <workItem from="1736807798238" duration="618000" />
+      <workItem from="1737059480598" duration="598000" />
     </task>
     <task id="LOCAL-00196" summary="extra sensor logging?">
       <option name="closed" value="true" />
@@ -538,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736456559882</updated>
     </task>
-    <option name="localTasksCounter" value="244" />
+    <task id="LOCAL-00244" summary="90 degrees">
+      <option name="closed" value="true" />
+      <created>1736457182415</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1736457182415</updated>
+    </task>
+    <option name="localTasksCounter" value="245" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="No logging" />
     <MESSAGE value="Missed encoder in info.json" />
     <MESSAGE value="encoder definition" />
     <MESSAGE value="remove underglow in conf" />
@@ -625,7 +626,8 @@
     <MESSAGE value="180" />
     <MESSAGE value="270" />
     <MESSAGE value="0 degrees" />
-    <option name="LAST_COMMIT_MESSAGE" value="0 degrees" />
+    <MESSAGE value="90 degrees" />
+    <option name="LAST_COMMIT_MESSAGE" value="90 degrees" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
