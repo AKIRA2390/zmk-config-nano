@@ -11,11 +11,20 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
----
+# ---
+# include:
+#   - board: nice_nano_v2
+#     shield: wyld_dm_left
+#   - board: nice_nano_v2
+#     shield: wyld_dm_right
+#   - board: nice_nano_v2
+#     shield: settings_reset
+
+# ---
 include:
-  - board: nice_nano_v2
+  - board: stamp_c3
     shield: wyld_dm_left
-  - board: nice_nano_v2
+  - board: stamp_c3
     shield: wyld_dm_right
-  - board: nice_nano_v2
+  - board: stamp_c3
     shield: settings_reset
