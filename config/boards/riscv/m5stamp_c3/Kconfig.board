@@ -1,0 +1,7 @@
+menu "M5Stamp C3 Board"
+
+config BOARD_M5STAMP_C3
+    bool "M5Stamp C3"
+    select SOC_ESP32C3
+
+endmenu

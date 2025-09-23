@@ -1,0 +1,10 @@
+board:
+  name: m5stamp_c3
+  vendor: m5stack
+  soc: esp32c3
+  arch: riscv
+  toolchain: zephyr
+  features:
+    - ble
+    - usb
+    - keys
