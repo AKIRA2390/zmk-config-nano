@@ -32,11 +32,11 @@ RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4) RC(2,5)               RC(2,6) RC(2,7) RC
         diode-direction = "col2row";
         
         row-gpios
-			= <&gipio0 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-			, <&gipio0 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-			, <&gipio0 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-			, <&gipio0 7 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
-            , <&gipio0 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+			= <&gpio0 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+			, <&gpio0 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+			, <&gpio0 6 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+			, <&gpio0 7 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+            , <&gpio0 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
 
     };
