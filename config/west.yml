@@ -1,11 +1,11 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+      url-base: https://github.com/akira2390
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: akira2390
+      revision: core/move-to-zephyr-4-1
       import: app/west.yml
   self:
     path: config
